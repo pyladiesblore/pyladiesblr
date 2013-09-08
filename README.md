@@ -4,7 +4,7 @@ Pyladies Bangalore
 Overview
 ========
 
-This is the github repository for website of Pyladies Bangalore. 
+This is the github repository for the website of Pyladies Bangalore. 
 The website is written in Python-3.3 and Django-1.5.2. If anyone wants to contribute, 
 please let me know at bangalore at pyladies dot com. 
 
