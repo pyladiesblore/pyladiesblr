@@ -1,15 +1,9 @@
+# pyladiesblr
 Pyladies Bangalore
-==================
 
-Overview
-========
+I have coded the website for Pyladies Bangalore chapter. 
 
-This is the github repository for the website of Pyladies Bangalore. The website can be accessed using the url http://www.pyladies.co.in/
-The website is written in Python-3 and Django-1.8. If anyone wants to contribute, 
-please let me know at bangalore at pyladies dot com. 
+Please get in touch with me to contribute.
 
-
-
-
-
-
+Thanks,
+Annapoornima Koppad
